@@ -1,0 +1,62 @@
+.container {
+    max-width: 100%; 
+}
+
+.goal-item {
+    background-color: #f8f9fa; 
+    border-radius: 10px; 
+    padding: 20px; 
+    margin-bottom: 20px; 
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1); 
+}
+
+.goal-item h5 {
+    font-size: 1.25rem; 
+    color: #007bff; 
+}
+
+.progress {
+    margin-top: 10px; 
+}
+
+.btn-add-progress {
+    margin-top: 10px; 
+    background-color: #28a745; 
+    color: white; 
+}
+
+.btn-add-progress:hover {
+    background-color: #218838; 
+}
+
+
+.modal-header {
+    background-color: #007bff; 
+    color: white; 
+}
+
+.modal-footer {
+    background-color: #f8f9fa; 
+}
+
+.goals-image {
+    width: 150px; 
+    height: auto; 
+    display: block; 
+    margin: 0 auto 20px; 
+    border-radius: 10px; 
+    background-color: #f8f9fa; 
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1); 
+}
+
+.App-footer {
+    background-color: black;
+    color: white;
+}
+
+
+.App {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}

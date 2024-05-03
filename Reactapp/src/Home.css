@@ -1,0 +1,66 @@
+/* Home.module.css */
+.App-footer {
+    background-color: #343a40;
+    color: white;
+    padding: 3rem 0;
+    font-size: 1.2em;
+}
+
+/* Home Section */
+.home {
+    width: 100%;
+    height: auto !important;
+    /* background: radial-gradient(#808080, #000); */
+    /* background: radial-gradient(#000, #808080); */
+    /* background: lightgray; */
+
+}
+
+.header h1 {
+    margin: 0 0 10px 0;
+    font-size: 35px;
+    font-weight: 100;
+    color: black;
+    font-family: 'Ubuntu', sans-serif !important;
+}
+
+.header p {
+    font-family: 'Mulish', sans-serif !important;
+    font-size: 16px !important;
+    color: gray !important;
+
+}
+
+.header .brand-name {
+    color: #555 !important;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Mulish', sans-serif !important;
+}
+
+.header .btn-get-started {
+    font-weight: 500;
+    font-size: 16px;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 10px 30px;
+    border-radius: 50px;
+    transition: 0.5s;
+    color: #555 !important;
+    border: 2px solid #555;
+    text-decoration: none;
+    font-family: 'Mulish', sans-serif !important;
+    /* margin-left: 300px; */
+}
+
+.header .btn-get-started:hover {
+    background: #555;
+    color: white !important;
+    /* font-weight: bold; */
+    font-family: 'Mulish', sans-serif !important;
+}
+
+.header-img {
+    text-align: right;
+    height: auto !important;
+}
